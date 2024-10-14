@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianAyekha
+- 👋 Hi, I’m Brian Ayekha
 - 👀 I’m interested in becoming a proficient programmer in ML,App and web development and embeded systems
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML,App and web development and embeded systems
